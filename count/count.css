@@ -1,0 +1,18 @@
+#countbox{
+    background-color: antiquewhite;
+    /* padding-top: 250px; */
+    text-align: center;
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+}
+
+#top{
+    height: 100vh;
+    background-image: url(./IMG-20251024-WA0034.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 220px;
+    /* padding-top: 220px; */
+}
